@@ -10,6 +10,6 @@ Manejo de librería inquirer para que sea más agradable a la vista la aplicaci�
 
 Clonar el proyecto y ejecutar $ npm i para instalar dependencias necesarias.
 
-En consola estando en la ruta del proyecto, escribir $ node app
+En consola estando en la ruta del proyecto, escribir $node app
 
 ## ENJOY!
