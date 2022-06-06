@@ -1,2 +1,3 @@
-# productManager
-Aplicación de consola para manejo de producto implementando persistencia en archivos JSON.
+# PRODUCT MANAGER
+
+Aplicación de consola para manejo de productos implementando persistencia en archivos ## JSON y ## TXT.
