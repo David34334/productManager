@@ -1,0 +1,46 @@
+
+        ***************************************************
+        1. Nombre producto: Galletas Oreo
+        Descripción producto: Galletas Oreo sabor chocolate 
+        Precio producto: $4200 
+        Disponibilidad: Disponible
+        Última modificación: 06-06-2022 3:16 PM
+        Creado en: 06-06-2022 3:16 PM
+        ***************************************************
+        
+        ***************************************************
+        2. Nombre producto: Galletas Saltina
+        Descripción producto: Galletas saladas (4 tacos) 
+        Precio producto: $5700 
+        Disponibilidad: No Disponible
+        Última modificación: 06-06-2022 4:57 PM
+        Creado en: 06-06-2022 4:57 PM
+        ***************************************************
+        
+        ***************************************************
+        3. Nombre producto: Galletas Club Social
+        Descripción producto: Galletas integrales 
+        Precio producto: $8700 
+        Disponibilidad: Disponible
+        Última modificación: 06-06-2022 2:21 PM
+        Creado en: 06-06-2022 2:21 PM
+        ***************************************************
+        
+        ***************************************************
+        4. Nombre producto: Leche Alqueria
+        Descripción producto: Leche alqueria deslactosada 
+        Precio producto: $22150 
+        Disponibilidad: Disponible
+        Última modificación: 06-06-2022 4:19 PM
+        Creado en: 06-06-2022 4:19 PM
+        ***************************************************
+        
+        ***************************************************
+        5. Nombre producto: NVIDIA GTX 1650
+        Descripción producto: Tarjeta de video 
+        Precio producto: $1890000 
+        Disponibilidad: No Disponible
+        Última modificación: 06-06-2022 4:57 PM
+        Creado en: 06-06-2022 4:57 PM
+        ***************************************************
+        
