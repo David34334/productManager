@@ -1,6 +1,6 @@
 # PRODUCT MANAGER
 
-Aplicación de consola para manejo de productos implementando persistencia en archivos JSON y TXT.
+Aplicación de consola para manejo de productos implementando persistencia en archivos JSON y TXT hecha en NODE JS.
 
 ### INQUIRER
 
