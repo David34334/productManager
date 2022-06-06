@@ -16,7 +16,7 @@ Uso de librerias nativas de `NodeJS` para el manejo de archivos.
 
 ### ¿Cómo utilizarla?
 
-Clonar el proyecto y ejecutar `npm i` para instalar dependencias necesarias.
+Clonar el proyecto y ejecutar `npm install` para instalar dependencias necesarias.
 
 En consola estando en la ruta del proyecto, escribir ` node app `
 
