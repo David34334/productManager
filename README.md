@@ -12,7 +12,7 @@ Librería `COLORS` para la cambiar color y tipo de tipografía en consola.
 
 ### FILESYSTEM
 
-Uso de librerias nativas de NodeJS para el manejo de archivos.
+Uso de librerias nativas de `NodeJS` para el manejo de archivos.
 
 ### ¿Cómo utilizarla?
 
